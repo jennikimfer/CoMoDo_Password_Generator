@@ -5,7 +5,9 @@ Generates a random password with 10~25 characters with at least 2 of each of the
   - lowercase letter
   - number
   - special character
+  
 It also keeps a file of passwords already created to ensure that no two passwords will be repeated.
+ 
  
 Instructions to Use:
  1. Download the entire folder from Github.
