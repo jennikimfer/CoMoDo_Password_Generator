@@ -1,5 +1,4 @@
 from random import randint, choice
-from enum import Enum
 import string
 
 def findPassLength():
